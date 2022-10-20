@@ -1,2 +1,2 @@
-/*listar base de datos del servidor*/
+/* listar base d edatos de usuario*/
 SHOW DATABASES;
